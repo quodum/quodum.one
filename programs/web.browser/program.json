@@ -1,0 +1,1679 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "packages/es5-shim.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/es5-shim.js?03b82f907286b5353e3a371eb320635a634fc88b",
+      "sourceMap": "packages/es5-shim.js.map",
+      "sourceMapUrl": "/packages/03b82f907286b5353e3a371eb320635a634fc88b.map",
+      "size": 285761,
+      "hash": "03b82f907286b5353e3a371eb320635a634fc88b"
+    },
+    {
+      "path": "packages/underscore.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/underscore.js?46eaedbdeb6e71c82af1b16f51c7da4127d6f285",
+      "sourceMap": "packages/underscore.js.map",
+      "sourceMapUrl": "/packages/46eaedbdeb6e71c82af1b16f51c7da4127d6f285.map",
+      "size": 150148,
+      "hash": "46eaedbdeb6e71c82af1b16f51c7da4127d6f285"
+    },
+    {
+      "path": "packages/meteor.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/meteor.js?9730f4ff059088b3f7f14c0672d155218a1802d4",
+      "sourceMap": "packages/meteor.js.map",
+      "sourceMapUrl": "/packages/9730f4ff059088b3f7f14c0672d155218a1802d4.map",
+      "size": 111297,
+      "hash": "9730f4ff059088b3f7f14c0672d155218a1802d4"
+    },
+    {
+      "path": "packages/meteor-base.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/meteor-base.js?f0836ed3757e6217fff6e2710a1293407a6d9b09",
+      "sourceMap": "packages/meteor-base.js.map",
+      "sourceMapUrl": "/packages/f0836ed3757e6217fff6e2710a1293407a6d9b09.map",
+      "size": 771,
+      "hash": "f0836ed3757e6217fff6e2710a1293407a6d9b09"
+    },
+    {
+      "path": "packages/mobile-experience.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/mobile-experience.js?674f55574f9947b91bb5f92f9ea9be098479b649",
+      "sourceMap": "packages/mobile-experience.js.map",
+      "sourceMapUrl": "/packages/674f55574f9947b91bb5f92f9ea9be098479b649.map",
+      "size": 777,
+      "hash": "674f55574f9947b91bb5f92f9ea9be098479b649"
+    },
+    {
+      "path": "packages/random.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/random.js?f390084b611992ee4c5bd9d83b86877f3797289c",
+      "sourceMap": "packages/random.js.map",
+      "sourceMapUrl": "/packages/f390084b611992ee4c5bd9d83b86877f3797289c.map",
+      "size": 23564,
+      "hash": "f390084b611992ee4c5bd9d83b86877f3797289c"
+    },
+    {
+      "path": "packages/base64.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/base64.js?6b407c3b106cfc043cc07a07a111a2443d789bd4",
+      "sourceMap": "packages/base64.js.map",
+      "sourceMapUrl": "/packages/6b407c3b106cfc043cc07a07a111a2443d789bd4.map",
+      "size": 15153,
+      "hash": "6b407c3b106cfc043cc07a07a111a2443d789bd4"
+    },
+    {
+      "path": "packages/ejson.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/ejson.js?5e95dd4b5971d96cb2d3287c54b14d9002f83ab7",
+      "sourceMap": "packages/ejson.js.map",
+      "sourceMapUrl": "/packages/5e95dd4b5971d96cb2d3287c54b14d9002f83ab7.map",
+      "size": 81773,
+      "hash": "5e95dd4b5971d96cb2d3287c54b14d9002f83ab7"
+    },
+    {
+      "path": "packages/id-map.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/id-map.js?c9a0833f370b91bbc3fd76d54f21d6ce1850af49",
+      "sourceMap": "packages/id-map.js.map",
+      "sourceMapUrl": "/packages/c9a0833f370b91bbc3fd76d54f21d6ce1850af49.map",
+      "size": 8010,
+      "hash": "c9a0833f370b91bbc3fd76d54f21d6ce1850af49"
+    },
+    {
+      "path": "packages/ordered-dict.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/ordered-dict.js?18a4254f3dd5f8c97946dadb60e33c91efab39c1",
+      "sourceMap": "packages/ordered-dict.js.map",
+      "sourceMapUrl": "/packages/18a4254f3dd5f8c97946dadb60e33c91efab39c1.map",
+      "size": 19862,
+      "hash": "18a4254f3dd5f8c97946dadb60e33c91efab39c1"
+    },
+    {
+      "path": "packages/tracker.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/tracker.js?7776276660c988c38fed448d8262b925dffb5bc3",
+      "sourceMap": "packages/tracker.js.map",
+      "sourceMapUrl": "/packages/7776276660c988c38fed448d8262b925dffb5bc3.map",
+      "size": 83438,
+      "hash": "7776276660c988c38fed448d8262b925dffb5bc3"
+    },
+    {
+      "path": "packages/mongo-id.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/mongo-id.js?3c6c0f6ceace5f42b7dfee0fcafe19ae1b711909",
+      "sourceMap": "packages/mongo-id.js.map",
+      "sourceMapUrl": "/packages/3c6c0f6ceace5f42b7dfee0fcafe19ae1b711909.map",
+      "size": 12056,
+      "hash": "3c6c0f6ceace5f42b7dfee0fcafe19ae1b711909"
+    },
+    {
+      "path": "packages/diff-sequence.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/diff-sequence.js?f4337773c8aaf9bcaa5f5f22865660cbdd471eaa",
+      "sourceMap": "packages/diff-sequence.js.map",
+      "sourceMapUrl": "/packages/f4337773c8aaf9bcaa5f5f22865660cbdd471eaa.map",
+      "size": 24112,
+      "hash": "f4337773c8aaf9bcaa5f5f22865660cbdd471eaa"
+    },
+    {
+      "path": "packages/geojson-utils.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/geojson-utils.js?bfbab9d995bbbb19fa1b11a3cfdb9da5f5f328ba",
+      "sourceMap": "packages/geojson-utils.js.map",
+      "sourceMapUrl": "/packages/bfbab9d995bbbb19fa1b11a3cfdb9da5f5f328ba.map",
+      "size": 47801,
+      "hash": "bfbab9d995bbbb19fa1b11a3cfdb9da5f5f328ba"
+    },
+    {
+      "path": "packages/minimongo.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/minimongo.js?cdf1a26cf7719fa9471a8017c3defd5aea812727",
+      "sourceMap": "packages/minimongo.js.map",
+      "sourceMapUrl": "/packages/cdf1a26cf7719fa9471a8017c3defd5aea812727.map",
+      "size": 428728,
+      "hash": "cdf1a26cf7719fa9471a8017c3defd5aea812727"
+    },
+    {
+      "path": "packages/check.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/check.js?cfa4250d2aae369fa666098adc27266de8e26aea",
+      "sourceMap": "packages/check.js.map",
+      "sourceMapUrl": "/packages/cfa4250d2aae369fa666098adc27266de8e26aea.map",
+      "size": 42523,
+      "hash": "cfa4250d2aae369fa666098adc27266de8e26aea"
+    },
+    {
+      "path": "packages/retry.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/retry.js?acb5f93adc31a57311c18af4ce21068297f00f37",
+      "sourceMap": "packages/retry.js.map",
+      "sourceMapUrl": "/packages/acb5f93adc31a57311c18af4ce21068297f00f37.map",
+      "size": 6712,
+      "hash": "acb5f93adc31a57311c18af4ce21068297f00f37"
+    },
+    {
+      "path": "packages/ddp-common.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/ddp-common.js?407f25963eff34d975e0ca121f51d819c7c8d364",
+      "sourceMap": "packages/ddp-common.js.map",
+      "sourceMapUrl": "/packages/407f25963eff34d975e0ca121f51d819c7c8d364.map",
+      "size": 44696,
+      "hash": "407f25963eff34d975e0ca121f51d819c7c8d364"
+    },
+    {
+      "path": "packages/reload.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/reload.js?234f78ebae6ce49cbb0da4705afaec398706283b",
+      "sourceMap": "packages/reload.js.map",
+      "sourceMapUrl": "/packages/234f78ebae6ce49cbb0da4705afaec398706283b.map",
+      "size": 25329,
+      "hash": "234f78ebae6ce49cbb0da4705afaec398706283b"
+    },
+    {
+      "path": "packages/ddp-client.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/ddp-client.js?250b63e6c919c5383a0511ee4efbf42bb70a650f",
+      "sourceMap": "packages/ddp-client.js.map",
+      "sourceMapUrl": "/packages/250b63e6c919c5383a0511ee4efbf42bb70a650f.map",
+      "size": 581263,
+      "hash": "250b63e6c919c5383a0511ee4efbf42bb70a650f"
+    },
+    {
+      "path": "packages/ddp.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/ddp.js?1c935134013739ed5ece46880dea800b6319bd67",
+      "sourceMap": "packages/ddp.js.map",
+      "sourceMapUrl": "/packages/1c935134013739ed5ece46880dea800b6319bd67.map",
+      "size": 849,
+      "hash": "1c935134013739ed5ece46880dea800b6319bd67"
+    },
+    {
+      "path": "packages/ddp-server.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/ddp-server.js?1057b33d71942bc01fd0167e2b2a5f49f5545d11",
+      "sourceMap": "packages/ddp-server.js.map",
+      "sourceMapUrl": "/packages/1057b33d71942bc01fd0167e2b2a5f49f5545d11.map",
+      "size": 770,
+      "hash": "1057b33d71942bc01fd0167e2b2a5f49f5545d11"
+    },
+    {
+      "path": "packages/mongo.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/mongo.js?5dcfbae63393ea63b330ea0c46d7b41eb1b4c3ae",
+      "sourceMap": "packages/mongo.js.map",
+      "sourceMapUrl": "/packages/5dcfbae63393ea63b330ea0c46d7b41eb1b4c3ae.map",
+      "size": 151645,
+      "hash": "5dcfbae63393ea63b330ea0c46d7b41eb1b4c3ae"
+    },
+    {
+      "path": "packages/blaze-html-templates.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/blaze-html-templates.js?31453f3129c01ec6fabaa5b791f6572e8c4464a2",
+      "sourceMap": "packages/blaze-html-templates.js.map",
+      "sourceMapUrl": "/packages/31453f3129c01ec6fabaa5b791f6572e8c4464a2.map",
+      "size": 780,
+      "hash": "31453f3129c01ec6fabaa5b791f6572e8c4464a2"
+    },
+    {
+      "path": "packages/reactive-dict.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/reactive-dict.js?e43655c138a9184c40228ef4dd2da3f65f1bd8bb",
+      "sourceMap": "packages/reactive-dict.js.map",
+      "sourceMapUrl": "/packages/e43655c138a9184c40228ef4dd2da3f65f1bd8bb.map",
+      "size": 23891,
+      "hash": "e43655c138a9184c40228ef4dd2da3f65f1bd8bb"
+    },
+    {
+      "path": "packages/session.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/session.js?9a40cf46e8dc125a3486dc33b2a965c1e9f8ff2b",
+      "sourceMap": "packages/session.js.map",
+      "sourceMapUrl": "/packages/9a40cf46e8dc125a3486dc33b2a965c1e9f8ff2b.map",
+      "size": 5959,
+      "hash": "9a40cf46e8dc125a3486dc33b2a965c1e9f8ff2b"
+    },
+    {
+      "path": "packages/jquery.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/jquery.js?1015953f785c9b76503e2ecb391507dce965f357",
+      "sourceMap": "packages/jquery.js.map",
+      "sourceMapUrl": "/packages/1015953f785c9b76503e2ecb391507dce965f357.map",
+      "size": 1295968,
+      "hash": "1015953f785c9b76503e2ecb391507dce965f357"
+    },
+    {
+      "path": "packages/standard-minifiers.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/standard-minifiers.js?b02a7937678c6058031ee7b2f45b5a617518335d",
+      "sourceMap": "packages/standard-minifiers.js.map",
+      "sourceMapUrl": "/packages/b02a7937678c6058031ee7b2f45b5a617518335d.map",
+      "size": 778,
+      "hash": "b02a7937678c6058031ee7b2f45b5a617518335d"
+    },
+    {
+      "path": "packages/babel-compiler.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/babel-compiler.js?b72b25550ee1619b0eaddf5e0c1541e8c264ccf0",
+      "sourceMap": "packages/babel-compiler.js.map",
+      "sourceMapUrl": "/packages/b72b25550ee1619b0eaddf5e0c1541e8c264ccf0.map",
+      "size": 840,
+      "hash": "b72b25550ee1619b0eaddf5e0c1541e8c264ccf0"
+    },
+    {
+      "path": "packages/ecmascript.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/ecmascript.js?9c79b20dd3f3a6da85828defdd8585b8436af75d",
+      "sourceMap": "packages/ecmascript.js.map",
+      "sourceMapUrl": "/packages/9c79b20dd3f3a6da85828defdd8585b8436af75d.map",
+      "size": 840,
+      "hash": "9c79b20dd3f3a6da85828defdd8585b8436af75d"
+    },
+    {
+      "path": "packages/semantic_ui.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/semantic_ui.js?3a89e53c9823d0be7e21a16456df606c0f0bc6c1",
+      "sourceMap": "packages/semantic_ui.js.map",
+      "sourceMapUrl": "/packages/3a89e53c9823d0be7e21a16456df606c0f0bc6c1.map",
+      "size": 771,
+      "hash": "3a89e53c9823d0be7e21a16456df606c0f0bc6c1"
+    },
+    {
+      "path": "packages/flemay_less-autoprefixer.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/flemay_less-autoprefixer.js?0bcb84be1886730a2b82542109457650c03457a6",
+      "sourceMap": "packages/flemay_less-autoprefixer.js.map",
+      "sourceMapUrl": "/packages/0bcb84be1886730a2b82542109457650c03457a6.map",
+      "size": 1392,
+      "hash": "0bcb84be1886730a2b82542109457650c03457a6"
+    },
+    {
+      "path": "packages/reactive-var.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/reactive-var.js?975c4d5513ecf8c3a212b5aa160a9ea4447f3079",
+      "sourceMap": "packages/reactive-var.js.map",
+      "sourceMapUrl": "/packages/975c4d5513ecf8c3a212b5aa160a9ea4447f3079.map",
+      "size": 13430,
+      "hash": "975c4d5513ecf8c3a212b5aa160a9ea4447f3079"
+    },
+    {
+      "path": "packages/cosmos_browserify.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/cosmos_browserify.js?027484245c5391da15c798a7e5a0c83dcf6e0109",
+      "sourceMap": "packages/cosmos_browserify.js.map",
+      "sourceMapUrl": "/packages/027484245c5391da15c798a7e5a0c83dcf6e0109.map",
+      "size": 1385,
+      "hash": "027484245c5391da15c798a7e5a0c83dcf6e0109"
+    },
+    {
+      "path": "packages/kadira_flow-router.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/kadira_flow-router.js?f29b14472f306decf313da32ec709776e3778f53",
+      "sourceMap": "packages/kadira_flow-router.js.map",
+      "sourceMapUrl": "/packages/f29b14472f306decf313da32ec709776e3778f53.map",
+      "size": 298416,
+      "hash": "f29b14472f306decf313da32ec709776e3778f53"
+    },
+    {
+      "path": "packages/deps.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/deps.js?a0f1fc18309813a3aac8954f76d0c73e4c5d46f4",
+      "sourceMap": "packages/deps.js.map",
+      "sourceMapUrl": "/packages/a0f1fc18309813a3aac8954f76d0c73e4c5d46f4.map",
+      "size": 917,
+      "hash": "a0f1fc18309813a3aac8954f76d0c73e4c5d46f4"
+    },
+    {
+      "path": "packages/htmljs.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/htmljs.js?fd1566f5a5a4b277eb93f0a636a84a07ab9a83db",
+      "sourceMap": "packages/htmljs.js.map",
+      "sourceMapUrl": "/packages/fd1566f5a5a4b277eb93f0a636a84a07ab9a83db.map",
+      "size": 60361,
+      "hash": "fd1566f5a5a4b277eb93f0a636a84a07ab9a83db"
+    },
+    {
+      "path": "packages/observe-sequence.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/observe-sequence.js?cd318009bd759e1458173f84a537c5dd315b4f86",
+      "sourceMap": "packages/observe-sequence.js.map",
+      "sourceMapUrl": "/packages/cd318009bd759e1458173f84a537c5dd315b4f86.map",
+      "size": 32282,
+      "hash": "cd318009bd759e1458173f84a537c5dd315b4f86"
+    },
+    {
+      "path": "packages/blaze.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/blaze.js?9391df93ba5076c2cfc61ee68724eb79b65f00d9",
+      "sourceMap": "packages/blaze.js.map",
+      "sourceMapUrl": "/packages/9391df93ba5076c2cfc61ee68724eb79b65f00d9.map",
+      "size": 461224,
+      "hash": "9391df93ba5076c2cfc61ee68724eb79b65f00d9"
+    },
+    {
+      "path": "packages/spacebars.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/spacebars.js?1aedcc2aa3ae9ff5d860d73516110cedd77c033e",
+      "sourceMap": "packages/spacebars.js.map",
+      "sourceMapUrl": "/packages/1aedcc2aa3ae9ff5d860d73516110cedd77c033e.map",
+      "size": 26371,
+      "hash": "1aedcc2aa3ae9ff5d860d73516110cedd77c033e"
+    },
+    {
+      "path": "packages/templating.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/templating.js?142b64439619ddabba8ad16a798ed8349de73bae",
+      "sourceMap": "packages/templating.js.map",
+      "sourceMapUrl": "/packages/142b64439619ddabba8ad16a798ed8349de73bae.map",
+      "size": 21818,
+      "hash": "142b64439619ddabba8ad16a798ed8349de73bae"
+    },
+    {
+      "path": "packages/kadira_blaze-layout.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/kadira_blaze-layout.js?62ca9a31ce1a718ba911935f7509b79cf525b6f8",
+      "sourceMap": "packages/kadira_blaze-layout.js.map",
+      "sourceMapUrl": "/packages/62ca9a31ce1a718ba911935f7509b79cf525b6f8.map",
+      "size": 15683,
+      "hash": "62ca9a31ce1a718ba911935f7509b79cf525b6f8"
+    },
+    {
+      "path": "packages/webapp.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/webapp.js?1b9f36d855fc5c8399abf2579ac1e1512060cc95",
+      "sourceMap": "packages/webapp.js.map",
+      "sourceMapUrl": "/packages/1b9f36d855fc5c8399abf2579ac1e1512060cc95.map",
+      "size": 2579,
+      "hash": "1b9f36d855fc5c8399abf2579ac1e1512060cc95"
+    },
+    {
+      "path": "packages/livedata.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/livedata.js?93f27626c1702ea8af804d6170ffbf8968626718",
+      "sourceMap": "packages/livedata.js.map",
+      "sourceMapUrl": "/packages/93f27626c1702ea8af804d6170ffbf8968626718.map",
+      "size": 898,
+      "hash": "93f27626c1702ea8af804d6170ffbf8968626718"
+    },
+    {
+      "path": "packages/hot-code-push.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/hot-code-push.js?3916ae26c3ca4928e61dc2da7e7b3f93e4164c0c",
+      "sourceMap": "packages/hot-code-push.js.map",
+      "sourceMapUrl": "/packages/3916ae26c3ca4928e61dc2da7e7b3f93e4164c0c.map",
+      "size": 773,
+      "hash": "3916ae26c3ca4928e61dc2da7e7b3f93e4164c0c"
+    },
+    {
+      "path": "packages/launch-screen.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/launch-screen.js?b50bb1bd905d2cc3d6182ee28c096df0cc24a725",
+      "sourceMap": "packages/launch-screen.js.map",
+      "sourceMapUrl": "/packages/b50bb1bd905d2cc3d6182ee28c096df0cc24a725.map",
+      "size": 8132,
+      "hash": "b50bb1bd905d2cc3d6182ee28c096df0cc24a725"
+    },
+    {
+      "path": "packages/ui.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/ui.js?6aa94fb4743be2472f799f928674607edae2afdf",
+      "sourceMap": "packages/ui.js.map",
+      "sourceMapUrl": "/packages/6aa94fb4743be2472f799f928674607edae2afdf.map",
+      "size": 1004,
+      "hash": "6aa94fb4743be2472f799f928674607edae2afdf"
+    },
+    {
+      "path": "packages/babel-runtime.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/babel-runtime.js?b0359ff15b87202234ffb6a78f85b70175b412af",
+      "sourceMap": "packages/babel-runtime.js.map",
+      "sourceMapUrl": "/packages/b0359ff15b87202234ffb6a78f85b70175b412af.map",
+      "size": 30626,
+      "hash": "b0359ff15b87202234ffb6a78f85b70175b412af"
+    },
+    {
+      "path": "packages/promise.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/promise.js?c18eac25a2117745aa5b372e139bae2fce4a84fe",
+      "sourceMap": "packages/promise.js.map",
+      "sourceMapUrl": "/packages/c18eac25a2117745aa5b372e139bae2fce4a84fe.map",
+      "size": 106489,
+      "hash": "c18eac25a2117745aa5b372e139bae2fce4a84fe"
+    },
+    {
+      "path": "packages/ecmascript-collections.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/ecmascript-collections.js?f40db97e12a9f8e6be41cace4209f022d24ec40e",
+      "sourceMap": "packages/ecmascript-collections.js.map",
+      "sourceMapUrl": "/packages/f40db97e12a9f8e6be41cace4209f022d24ec40e.map",
+      "size": 152522,
+      "hash": "f40db97e12a9f8e6be41cace4209f022d24ec40e"
+    },
+    {
+      "path": "packages/autoupdate.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/autoupdate.js?764e166739a4aeba204926326b786baa4292b65d",
+      "sourceMap": "packages/autoupdate.js.map",
+      "sourceMapUrl": "/packages/764e166739a4aeba204926326b786baa4292b65d.map",
+      "size": 17021,
+      "hash": "764e166739a4aeba204926326b786baa4292b65d"
+    },
+    {
+      "path": "packages/global-imports.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/global-imports.js?1507a6c4d479edad92347355f477be2c121df162",
+      "size": 1069,
+      "hash": "1507a6c4d479edad92347355f477be2c121df162"
+    },
+    {
+      "path": "app/client/template.kuip-site.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/template.kuip-site.js?eca8530a2cd31e6adc4c4c31dab4e64c97e608f7",
+      "sourceMap": "app/client/template.kuip-site.js.map",
+      "sourceMapUrl": "/app/client/eca8530a2cd31e6adc4c4c31dab4e64c97e608f7.map",
+      "size": 6773,
+      "hash": "eca8530a2cd31e6adc4c4c31dab4e64c97e608f7"
+    },
+    {
+      "path": "app/client/template.layout.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/template.layout.js?cd45b016ff623b1e32c44e16eef4206a00a56a24",
+      "sourceMap": "app/client/template.layout.js.map",
+      "sourceMapUrl": "/app/client/cd45b016ff623b1e32c44e16eef4206a00a56a24.map",
+      "size": 1042,
+      "hash": "cd45b016ff623b1e32c44e16eef4206a00a56a24"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/behaviors/api.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/behaviors/api.js?3f7f81527f59e6c3ab174dbc2f77ee0820f7e534",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/behaviors/api.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/behaviors/3f7f81527f59e6c3ab174dbc2f77ee0820f7e534.map",
+      "size": 76359,
+      "hash": "3f7f81527f59e6c3ab174dbc2f77ee0820f7e534"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/behaviors/colorize.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/behaviors/colorize.js?94e2e93b3cf3a43bae74a33768c9707f361c6283",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/behaviors/colorize.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/behaviors/94e2e93b3cf3a43bae74a33768c9707f361c6283.map",
+      "size": 19943,
+      "hash": "94e2e93b3cf3a43bae74a33768c9707f361c6283"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/behaviors/form.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/behaviors/form.js?1762499beff0563163f06ac4bb2fec856aa877ef",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/behaviors/form.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/behaviors/1762499beff0563163f06ac4bb2fec856aa877ef.map",
+      "size": 97420,
+      "hash": "1762499beff0563163f06ac4bb2fec856aa877ef"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/behaviors/state.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/behaviors/state.js?f63ddb53d4223a7926fc5f3586f6802d2bf38674",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/behaviors/state.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/behaviors/f63ddb53d4223a7926fc5f3586f6802d2bf38674.map",
+      "size": 47394,
+      "hash": "f63ddb53d4223a7926fc5f3586f6802d2bf38674"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/behaviors/visibility.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/behaviors/visibility.js?bd2905c9372a00c312dce036a6e663f7c6d9b9ed",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/behaviors/visibility.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/behaviors/bd2905c9372a00c312dce036a6e663f7c6d9b9ed.map",
+      "size": 82012,
+      "hash": "bd2905c9372a00c312dce036a6e663f7c6d9b9ed"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/behaviors/visit.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/behaviors/visit.js?f6cf719e0a8bf41bbb22881a2fca0511e6b8d0f9",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/behaviors/visit.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/behaviors/f6cf719e0a8bf41bbb22881a2fca0511e6b8d0f9.map",
+      "size": 34209,
+      "hash": "f6cf719e0a8bf41bbb22881a2fca0511e6b8d0f9"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/globals/site.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/globals/site.js?5e545069ac00a604052ac8b73d49ed35964fa2ac",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/globals/site.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/globals/5e545069ac00a604052ac8b73d49ed35964fa2ac.map",
+      "size": 31394,
+      "hash": "5e545069ac00a604052ac8b73d49ed35964fa2ac"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/accordion.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/modules/accordion.js?9128bf2d7affaab582366f38d8ea90dd46a34643",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/modules/accordion.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/modules/9128bf2d7affaab582366f38d8ea90dd46a34643.map",
+      "size": 36520,
+      "hash": "9128bf2d7affaab582366f38d8ea90dd46a34643"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/checkbox.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/modules/checkbox.js?a50be80f700e52e75269843460457c7930739093",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/modules/checkbox.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/modules/a50be80f700e52e75269843460457c7930739093.map",
+      "size": 54949,
+      "hash": "a50be80f700e52e75269843460457c7930739093"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/dimmer.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/modules/dimmer.js?e66094282fac86187dad77ee367358536ef4d0ae",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/modules/dimmer.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/modules/e66094282fac86187dad77ee367358536ef4d0ae.map",
+      "size": 46044,
+      "hash": "e66094282fac86187dad77ee367358536ef4d0ae"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/dropdown.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/modules/dropdown.js?e1a0fc8e9663fca617b55f77c3365134e2df675d",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/modules/dropdown.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/modules/e1a0fc8e9663fca617b55f77c3365134e2df675d.map",
+      "size": 214924,
+      "hash": "e1a0fc8e9663fca617b55f77c3365134e2df675d"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/embed.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/modules/embed.js?88d498681cd6b87c28d1cc404ed3150411a3f9d9",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/modules/embed.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/modules/88d498681cd6b87c28d1cc404ed3150411a3f9d9.map",
+      "size": 43033,
+      "hash": "88d498681cd6b87c28d1cc404ed3150411a3f9d9"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/modal.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/modules/modal.js?173441ce383c261896feffa867a1cabba78aae42",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/modules/modal.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/modules/173441ce383c261896feffa867a1cabba78aae42.map",
+      "size": 58088,
+      "hash": "173441ce383c261896feffa867a1cabba78aae42"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/nag.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/modules/nag.js?98d578f881be1c50310b16ed4a11932c7fe76951",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/modules/nag.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/modules/98d578f881be1c50310b16ed4a11932c7fe76951.map",
+      "size": 31826,
+      "hash": "98d578f881be1c50310b16ed4a11932c7fe76951"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/popup.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/modules/popup.js?c29375d5a435d6bb50fce8008a6f0b87f70d7715",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/modules/popup.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/modules/c29375d5a435d6bb50fce8008a6f0b87f70d7715.map",
+      "size": 94416,
+      "hash": "c29375d5a435d6bb50fce8008a6f0b87f70d7715"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/progress.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/modules/progress.js?35aadabd122f286357c9e40e8be3fe499f1dfa8b",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/modules/progress.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/modules/35aadabd122f286357c9e40e8be3fe499f1dfa8b.map",
+      "size": 52870,
+      "hash": "35aadabd122f286357c9e40e8be3fe499f1dfa8b"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/rating.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/modules/rating.js?3c38f8d731d21d4963e18148d9b4eeed1be3341c",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/modules/rating.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/modules/3c38f8d731d21d4963e18148d9b4eeed1be3341c.map",
+      "size": 29706,
+      "hash": "3c38f8d731d21d4963e18148d9b4eeed1be3341c"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/search.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/modules/search.js?b34fbe2a71f576a24aa7e6ecd2559d1a55d93d96",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/modules/search.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/modules/b34fbe2a71f576a24aa7e6ecd2559d1a55d93d96.map",
+      "size": 84182,
+      "hash": "b34fbe2a71f576a24aa7e6ecd2559d1a55d93d96"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/shape.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/modules/shape.js?552a83db8f81c65a8e3be1c416f146951c311404",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/modules/shape.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/modules/552a83db8f81c65a8e3be1c416f146951c311404.map",
+      "size": 55849,
+      "hash": "552a83db8f81c65a8e3be1c416f146951c311404"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/sidebar.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/modules/sidebar.js?45dd35aa31b319fc4f747b52326aea8b56ad26de",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/modules/sidebar.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/modules/45dd35aa31b319fc4f747b52326aea8b56ad26de.map",
+      "size": 68261,
+      "hash": "45dd35aa31b319fc4f747b52326aea8b56ad26de"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/sticky.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/modules/sticky.js?e48f0acaedb8514ddf084c16e86a6eaf2bd5fd45",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/modules/sticky.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/modules/e48f0acaedb8514ddf084c16e86a6eaf2bd5fd45.map",
+      "size": 58320,
+      "hash": "e48f0acaedb8514ddf084c16e86a6eaf2bd5fd45"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/tab.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/modules/tab.js?0c002543c240659a8c1a87d92a252e68bd9861e2",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/modules/tab.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/modules/0c002543c240659a8c1a87d92a252e68bd9861e2.map",
+      "size": 58200,
+      "hash": "0c002543c240659a8c1a87d92a252e68bd9861e2"
+    },
+    {
+      "path": "app/client/lib/semantic-ui/definitions/modules/transition.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/semantic-ui/definitions/modules/transition.js?406f5ffe668055d13b3560e3789af514b77957f1",
+      "sourceMap": "app/client/lib/semantic-ui/definitions/modules/transition.js.map",
+      "sourceMapUrl": "/app/client/lib/semantic-ui/definitions/modules/406f5ffe668055d13b3560e3789af514b77957f1.map",
+      "size": 69377,
+      "hash": "406f5ffe668055d13b3560e3789af514b77957f1"
+    },
+    {
+      "path": "app/client/lib/owl-carousel/owl.carousel.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/lib/owl-carousel/owl.carousel.js?b1548ec45e9cb327d4292c8e036e196167163115",
+      "sourceMap": "app/client/lib/owl-carousel/owl.carousel.js.map",
+      "sourceMapUrl": "/app/client/lib/owl-carousel/b1548ec45e9cb327d4292c8e036e196167163115.map",
+      "size": 116106,
+      "hash": "b1548ec45e9cb327d4292c8e036e196167163115"
+    },
+    {
+      "path": "app/client/kuip-site.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/kuip-site.js?e3aa051744298b3461319e44dc90ee4c0d4a5dbb",
+      "sourceMap": "app/client/kuip-site.js.map",
+      "sourceMapUrl": "/app/client/e3aa051744298b3461319e44dc90ee4c0d4a5dbb.map",
+      "size": 9099,
+      "hash": "e3aa051744298b3461319e44dc90ee4c0d4a5dbb"
+    },
+    {
+      "path": "app/client/routes.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/routes.js?c02db41b54add95ae981a4a6b2e65ed4066b0907",
+      "sourceMap": "app/client/routes.js.map",
+      "sourceMapUrl": "/app/client/c02db41b54add95ae981a4a6b2e65ed4066b0907.map",
+      "size": 1030,
+      "hash": "c02db41b54add95ae981a4a6b2e65ed4066b0907"
+    },
+    {
+      "path": "app/client/startup.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/startup.js?ec3664b10814deb6480a9be98b8beff4797e30aa",
+      "sourceMap": "app/client/startup.js.map",
+      "sourceMapUrl": "/app/client/ec3664b10814deb6480a9be98b8beff4797e30aa.map",
+      "size": 1144,
+      "hash": "ec3664b10814deb6480a9be98b8beff4797e30aa"
+    },
+    {
+      "path": "merged-stylesheets.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/merged-stylesheets.css?bcc6ff80938120608fb0a56ebcc53741a1fe8bb6",
+      "sourceMap": "merged-stylesheets.css.map",
+      "sourceMapUrl": "/bcc6ff80938120608fb0a56ebcc53741a1fe8bb6.map",
+      "size": 1499939,
+      "hash": "bcc6ff80938120608fb0a56ebcc53741a1fe8bb6"
+    },
+    {
+      "path": "app/run.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/run.svg",
+      "size": 57987,
+      "hash": "f573ee15d542a31f0ec0f4375687c710ca705e24"
+    },
+    {
+      "path": "app/images/meteor-logo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/meteor-logo.png",
+      "size": 37956,
+      "hash": "9cf2535d403c6cfdecda92338bd09161b754f582"
+    },
+    {
+      "path": "app/owl.carousel/LICENSE",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/LICENSE",
+      "size": 1066,
+      "hash": "786e1492278922fd06fa4a2920283de7c67d7972"
+    },
+    {
+      "path": "app/owl.carousel/README.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/README.md",
+      "size": 2208,
+      "hash": "a7e6b142a79b8bae5de07a9f05fde0bc1ac32863"
+    },
+    {
+      "path": "app/owl.carousel/changelog.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/changelog.html",
+      "size": 13498,
+      "hash": "0ac8ffad01f0d8c885a4e78cf780503862334a1b"
+    },
+    {
+      "path": "app/owl.carousel/index4.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/index4.html",
+      "size": 36553,
+      "hash": "c07292eb1d960394bb0c073104693b8509f160b8"
+    },
+    {
+      "path": "app/owl.carousel/demos/autoHeight.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/autoHeight.html",
+      "size": 12664,
+      "hash": "bbce7486cd8537e44feaf23be95ff6f620b59f40"
+    },
+    {
+      "path": "app/owl.carousel/demos/click.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/click.html",
+      "size": 13422,
+      "hash": "f858ca3dd74e52f048c237810091127dc9f49d53"
+    },
+    {
+      "path": "app/owl.carousel/demos/custom.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/custom.html",
+      "size": 14856,
+      "hash": "812d9ad3226a733855195101e03ebe93e398680b"
+    },
+    {
+      "path": "app/owl.carousel/demos/customJson.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/customJson.html",
+      "size": 11748,
+      "hash": "b2f9ace6fde8d4f34b513ff2c4298557b7031309"
+    },
+    {
+      "path": "app/owl.carousel/demos/full.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/full.html",
+      "size": 11636,
+      "hash": "213accc724a4298986d8e366f2144edd050d1bda"
+    },
+    {
+      "path": "app/owl.carousel/demos/images.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/images.html",
+      "size": 11928,
+      "hash": "010799ad48dcc91f1fb128eb801279e3cfcf0f3e"
+    },
+    {
+      "path": "app/owl.carousel/demos/itemsCustom.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/itemsCustom.html",
+      "size": 13885,
+      "hash": "0c536ab041f355fbd8bd3170335b35da4165034e"
+    },
+    {
+      "path": "app/owl.carousel/demos/json.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/json.html",
+      "size": 12178,
+      "hash": "05354a72915eced7515f81cf1a71a56abc1d7b5d"
+    },
+    {
+      "path": "app/owl.carousel/demos/lazyLoad.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/lazyLoad.html",
+      "size": 14305,
+      "hash": "df8c894402b1d06ed757f3e8736ec4df622c0e7b"
+    },
+    {
+      "path": "app/owl.carousel/demos/manipulations.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/manipulations.html",
+      "size": 15951,
+      "hash": "303e261f214f5bd5bf418f15943f7cf13015c673"
+    },
+    {
+      "path": "app/owl.carousel/demos/navOnTop.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/navOnTop.html",
+      "size": 13740,
+      "hash": "ae931a799357c52e6d9c35b74d3de20910330d11"
+    },
+    {
+      "path": "app/owl.carousel/demos/navOnTop2.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/navOnTop2.html",
+      "size": 11907,
+      "hash": "e448268e14a675074882709599930fa377a64e21"
+    },
+    {
+      "path": "app/owl.carousel/demos/one.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/one.html",
+      "size": 11375,
+      "hash": "9c14d9d72e629c6ede2e292a4c8589e73b7bc4bb"
+    },
+    {
+      "path": "app/owl.carousel/demos/owlStatus.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/owlStatus.html",
+      "size": 15792,
+      "hash": "2775e29900c37b56e3058be73165e9cc33817668"
+    },
+    {
+      "path": "app/owl.carousel/demos/progressBar.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/progressBar.html",
+      "size": 14865,
+      "hash": "a778e60899ec1250269c68bc0ca33a0d6dc1209c"
+    },
+    {
+      "path": "app/owl.carousel/demos/randomOrder.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/randomOrder.html",
+      "size": 14583,
+      "hash": "7305e43c4edd2f9d2ec9c633ec202fe0b1dfa170"
+    },
+    {
+      "path": "app/owl.carousel/demos/scaleup.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/scaleup.html",
+      "size": 11776,
+      "hash": "ddb62493f2e8e376350627465739a46df3f5d3d6"
+    },
+    {
+      "path": "app/owl.carousel/demos/sync.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/sync.html",
+      "size": 20101,
+      "hash": "b25f3b6a738ed4877360ed4fde1f0e770b1cbf9a"
+    },
+    {
+      "path": "app/owl.carousel/demos/transitions.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/transitions.html",
+      "size": 13016,
+      "hash": "b8e358eaa689ec36dcecc4023db4e8a514117571"
+    },
+    {
+      "path": "app/owl.carousel/owl-carousel/AjaxLoader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/owl-carousel/AjaxLoader.gif",
+      "size": 1517,
+      "hash": "1c9eaccf59da335e608e3a776ed4e6f7261eb99a"
+    },
+    {
+      "path": "app/owl.carousel/owl-carousel/grabbing.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/owl-carousel/grabbing.png",
+      "size": 116,
+      "hash": "5d75bfe2b7be91f751ad27e83233e5979546e3ca"
+    },
+    {
+      "path": "app/owl.carousel/owl-carousel/owl.carousel.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/owl-carousel/owl.carousel.css",
+      "size": 1476,
+      "hash": "07ad383de4cd0e21c289e3c6695b4822d1a7ad1d"
+    },
+    {
+      "path": "app/owl.carousel/owl-carousel/owl.carousel.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/owl-carousel/owl.carousel.js",
+      "size": 52797,
+      "hash": "99a600283194105be6679b4a7cba8ac27a8c455a"
+    },
+    {
+      "path": "app/owl.carousel/owl-carousel/owl.carousel.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/owl-carousel/owl.carousel.min.js",
+      "size": 23890,
+      "hash": "f947512e51f8ef4b15bba3f701de64e53a7f7f9b"
+    },
+    {
+      "path": "app/owl.carousel/owl-carousel/owl.theme.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/owl-carousel/owl.theme.css",
+      "size": 1665,
+      "hash": "98c420dadba613ae097236b8a54138d0a5fa94cf"
+    },
+    {
+      "path": "app/owl.carousel/owl-carousel/owl.transitions.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/owl-carousel/owl.transitions.css",
+      "size": 4476,
+      "hash": "737bc8e18a55d93ee2d76c8d3cc0fd284f1ee5c0"
+    },
+    {
+      "path": "app/owl.carousel/assets/css/bootstrapTheme.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/css/bootstrapTheme.css",
+      "size": 122614,
+      "hash": "291d4fef99177668bf47107582e5edfcb4029b4a"
+    },
+    {
+      "path": "app/owl.carousel/assets/css/custom.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/css/custom.css",
+      "size": 6184,
+      "hash": "dbe8c806d454bf2e6ea76db1b754ffbde14335e9"
+    },
+    {
+      "path": "app/owl.carousel/assets/css/responsive.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/css/responsive.css",
+      "size": 21945,
+      "hash": "e892326d9522105541755c41f6c71ec48f41c3d9"
+    },
+    {
+      "path": "app/owl.carousel/assets/ico/apple-touch-icon-114-precomposed.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/ico/apple-touch-icon-114-precomposed.png",
+      "size": 5673,
+      "hash": "db77b801d26f2f3c3b5f3fee17bbc4c6a0361f58"
+    },
+    {
+      "path": "app/owl.carousel/assets/ico/apple-touch-icon-144-precomposed.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/ico/apple-touch-icon-144-precomposed.png",
+      "size": 7907,
+      "hash": "be850c8d8f1cf176ec21a2e967e0d380b6d8c142"
+    },
+    {
+      "path": "app/owl.carousel/assets/ico/apple-touch-icon-57-precomposed.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/ico/apple-touch-icon-57-precomposed.png",
+      "size": 3058,
+      "hash": "32aadd5b93239ac0eb63d2d71586ffb677fdb7c3"
+    },
+    {
+      "path": "app/owl.carousel/assets/ico/apple-touch-icon-72-precomposed.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/ico/apple-touch-icon-72-precomposed.png",
+      "size": 3942,
+      "hash": "1b0de5ffde78076fe1114a08047069a52997ef4f"
+    },
+    {
+      "path": "app/owl.carousel/assets/ico/favicon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/ico/favicon.png",
+      "size": 2165,
+      "hash": "b51e37dfbef984402919b5e07c4f4b0943416585"
+    },
+    {
+      "path": "app/owl.carousel/assets/img/AjaxLoader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/img/AjaxLoader.gif",
+      "size": 755,
+      "hash": "22b9c9b8cd5ae936ac95fa78248caa70e3d803a5"
+    },
+    {
+      "path": "app/owl.carousel/assets/img/glyphicons-halflings-green.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/img/glyphicons-halflings-green.png",
+      "size": 15738,
+      "hash": "16954af0f6369cc04cd744bfda6081f1daf75d4e"
+    },
+    {
+      "path": "app/owl.carousel/assets/img/glyphicons-halflings-white.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/img/glyphicons-halflings-white.png",
+      "size": 8777,
+      "hash": "a25c4705320fd63c33790e666872910e702b9bf6"
+    },
+    {
+      "path": "app/owl.carousel/assets/img/glyphicons-halflings.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/img/glyphicons-halflings.png",
+      "size": 12799,
+      "hash": "84f613631b07d4fe22acbab50e551c0fe04bd78b"
+    },
+    {
+      "path": "app/owl.carousel/assets/img/owl-logo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/img/owl-logo.png",
+      "size": 8874,
+      "hash": "f88c1b1aa9738503d73441928ff5f0e84e0d8aee"
+    },
+    {
+      "path": "app/owl.carousel/assets/js/application.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/js/application.js",
+      "size": 576,
+      "hash": "7f62374564defa711a3ea6fc57a23a082f65734b"
+    },
+    {
+      "path": "app/owl.carousel/assets/js/bootstrap-collapse.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/js/bootstrap-collapse.js",
+      "size": 4735,
+      "hash": "54a985e176f2ea1de1821df1fe4a965dfeb9e43d"
+    },
+    {
+      "path": "app/owl.carousel/assets/js/bootstrap-tab.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/js/bootstrap-tab.js",
+      "size": 3496,
+      "hash": "dc24f65f1e2929725363188c0d2781c55bcabf16"
+    },
+    {
+      "path": "app/owl.carousel/assets/js/bootstrap-transition.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/js/bootstrap-transition.js",
+      "size": 1756,
+      "hash": "01a02a6ef355d440dd48e0fcc3affc89d454271a"
+    },
+    {
+      "path": "app/owl.carousel/assets/js/jquery-1.9.1.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/js/jquery-1.9.1.min.js",
+      "size": 92629,
+      "hash": "ae49e56999d82802727455f0ba83b63acd90a22b"
+    },
+    {
+      "path": "app/owl.carousel/demos/assets/fullimage1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/assets/fullimage1.jpg",
+      "size": 163675,
+      "hash": "ec01037d9ca916fb93e6d70cb48a9422753cf2c7"
+    },
+    {
+      "path": "app/owl.carousel/demos/assets/fullimage2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/assets/fullimage2.jpg",
+      "size": 149197,
+      "hash": "d547653a545fbd1d8eb0d481ca8abbaaa9050d31"
+    },
+    {
+      "path": "app/owl.carousel/demos/assets/fullimage3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/assets/fullimage3.jpg",
+      "size": 155634,
+      "hash": "0eecf9f9618f5463bf5b4c3107c164622bd6f7d8"
+    },
+    {
+      "path": "app/owl.carousel/demos/assets/fullimage4.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/assets/fullimage4.jpg",
+      "size": 50895,
+      "hash": "a11ee03405b5222767111310ce0d85be32904b08"
+    },
+    {
+      "path": "app/owl.carousel/demos/assets/fullimage5.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/assets/fullimage5.jpg",
+      "size": 106252,
+      "hash": "30ad14b2216110be795f6da84704ea3dfbfb5c6f"
+    },
+    {
+      "path": "app/owl.carousel/demos/assets/fullimage6.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/assets/fullimage6.jpg",
+      "size": 119136,
+      "hash": "298e8bde7f3d54f26549fb78a22385047931f77e"
+    },
+    {
+      "path": "app/owl.carousel/demos/assets/fullimage7.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/assets/fullimage7.jpg",
+      "size": 104748,
+      "hash": "8464ef589b21269a06531943f9995e547c6454b9"
+    },
+    {
+      "path": "app/owl.carousel/demos/assets/owl1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/assets/owl1.jpg",
+      "size": 27090,
+      "hash": "d07ff967ec7226670211e387138e2c2777aac254"
+    },
+    {
+      "path": "app/owl.carousel/demos/assets/owl2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/assets/owl2.jpg",
+      "size": 58799,
+      "hash": "8e19d7edb8e8a2468fd8f79a068912dfe467e4dc"
+    },
+    {
+      "path": "app/owl.carousel/demos/assets/owl3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/assets/owl3.jpg",
+      "size": 37374,
+      "hash": "244de3697e667ceec9afb781eb6a3fb6c5746797"
+    },
+    {
+      "path": "app/owl.carousel/demos/assets/owl4.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/assets/owl4.jpg",
+      "size": 27756,
+      "hash": "41c73f3f9b614850fb317b8dcb0f492a0c425c69"
+    },
+    {
+      "path": "app/owl.carousel/demos/assets/owl5.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/assets/owl5.jpg",
+      "size": 34388,
+      "hash": "62573245861215d7a44529a181a680234aa82b89"
+    },
+    {
+      "path": "app/owl.carousel/demos/assets/owl6.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/assets/owl6.jpg",
+      "size": 20136,
+      "hash": "1347230decf8fa2e05bb5957bc99669ade6b6582"
+    },
+    {
+      "path": "app/owl.carousel/demos/assets/owl7.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/assets/owl7.jpg",
+      "size": 28345,
+      "hash": "b80d0ca8be9ee4b53ee39ed3e5bcf3ae6a10394c"
+    },
+    {
+      "path": "app/owl.carousel/demos/assets/owl8.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/assets/owl8.jpg",
+      "size": 21166,
+      "hash": "2eb251ba6e94032ab7d17d4dafb73e5c443f0a86"
+    },
+    {
+      "path": "app/owl.carousel/demos/json/customData.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/json/customData.json",
+      "size": 423,
+      "hash": "104b42a332d547c393661de86bcd5840bb409550"
+    },
+    {
+      "path": "app/owl.carousel/demos/json/data.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/demos/json/data.json",
+      "size": 822,
+      "hash": "eae13d45ce9f1537a88b11d89143a4eb139a1cd8"
+    },
+    {
+      "path": "app/owl.carousel/assets/img/demo-slides/controls.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/img/demo-slides/controls.png",
+      "size": 3126,
+      "hash": "6a48d8e346a83d92d017c45c0d74825daeea2f31"
+    },
+    {
+      "path": "app/owl.carousel/assets/img/demo-slides/css3.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/img/demo-slides/css3.png",
+      "size": 7776,
+      "hash": "d8b01997910d8248994fd6ab29e1d805731f3719"
+    },
+    {
+      "path": "app/owl.carousel/assets/img/demo-slides/feather.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/img/demo-slides/feather.png",
+      "size": 3913,
+      "hash": "2fd6bfcc20a98237b922efae4e1c8c7a41ebadb8"
+    },
+    {
+      "path": "app/owl.carousel/assets/img/demo-slides/grab.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/img/demo-slides/grab.png",
+      "size": 3339,
+      "hash": "4876bc48d9c193f99e7611965f5ffe532e6d7c9f"
+    },
+    {
+      "path": "app/owl.carousel/assets/img/demo-slides/modern.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/img/demo-slides/modern.png",
+      "size": 8114,
+      "hash": "77456d5fa7831f265b97805bb7e12a5b995e3d0c"
+    },
+    {
+      "path": "app/owl.carousel/assets/img/demo-slides/multi.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/img/demo-slides/multi.png",
+      "size": 2459,
+      "hash": "3b7f2033a096eecd0ab9f989d34ef55dc277d064"
+    },
+    {
+      "path": "app/owl.carousel/assets/img/demo-slides/responsive.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/img/demo-slides/responsive.png",
+      "size": 2156,
+      "hash": "6520ca72bbe4b61eb4092ca5a3d444a0517593dd"
+    },
+    {
+      "path": "app/owl.carousel/assets/img/demo-slides/tons.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/img/demo-slides/tons.png",
+      "size": 3726,
+      "hash": "00f09f3baeb52c4f2cf21c7e53511fdbb9be2c02"
+    },
+    {
+      "path": "app/owl.carousel/assets/img/demo-slides/touch.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/img/demo-slides/touch.png",
+      "size": 3320,
+      "hash": "54a79e37e36fe4250c0bc7f786a36f63ec5260d8"
+    },
+    {
+      "path": "app/owl.carousel/assets/img/demo-slides/zombie.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/img/demo-slides/zombie.png",
+      "size": 5840,
+      "hash": "7010035ad28cff810df6533d8b882ed1aec730c5"
+    },
+    {
+      "path": "app/owl.carousel/assets/js/google-code-prettify/prettify.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/js/google-code-prettify/prettify.css",
+      "size": 614,
+      "hash": "ddb8a5b55d91c487a4fb365bcda4a8b717bd277d"
+    },
+    {
+      "path": "app/owl.carousel/assets/js/google-code-prettify/prettify.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/js/google-code-prettify/prettify.js",
+      "size": 13632,
+      "hash": "a4e5934397f97f79b8066984475c90af8a970a36"
+    },
+    {
+      "path": "app/owl.carousel/assets/js/google-code-prettify/run_prettify.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/owl.carousel/assets/js/google-code-prettify/run_prettify.js",
+      "size": 16682,
+      "hash": "57fe44478f6de3dd91bde7992b4baf1b9314cc19"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/fonts/icons.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/fonts/icons.eot",
+      "size": 60767,
+      "hash": "3e63fc9b3de4580f1f3bec0631436f755b80f167"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/fonts/icons.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/fonts/icons.svg",
+      "size": 313398,
+      "hash": "26bb1c5ef100a1cd71923f1d5dc29fc797ef4639"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/fonts/icons.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/fonts/icons.ttf",
+      "size": 122092,
+      "hash": "9088143b19979779b2116cef38b661f72d982e19"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/fonts/icons.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/fonts/icons.woff",
+      "size": 71508,
+      "hash": "56ce13e71c2150d81bc972940584915181bd6081"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/fonts/icons.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/fonts/icons.woff2",
+      "size": 56780,
+      "hash": "1075231650f579955905bb2f6527148a8e2b4b16"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/images/flags.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/images/flags.png",
+      "size": 28123,
+      "hash": "4a552ecb123ded5040ddda01d626103cc65db055"
+    }
+  ]
+}
