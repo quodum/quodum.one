@@ -2,13 +2,13 @@
   "format": "web-program-pre1",
   "manifest": [
     {
-      "path": "6a5e97f8de78f66e0c413f418980a08faad11e0e.js",
+      "path": "886beb0ff09219e7f22f735df328b16fcc4eb5bb.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/6a5e97f8de78f66e0c413f418980a08faad11e0e.js?meteor_js_resource=true",
-      "size": 701235,
-      "hash": "6a5e97f8de78f66e0c413f418980a08faad11e0e"
+      "url": "/886beb0ff09219e7f22f735df328b16fcc4eb5bb.js?meteor_js_resource=true",
+      "size": 702406,
+      "hash": "886beb0ff09219e7f22f735df328b16fcc4eb5bb"
     },
     {
       "path": "edaa823a6792c69aa21c1c865fc9f830da6427ab.css",
@@ -20,13 +20,31 @@
       "hash": "edaa823a6792c69aa21c1c865fc9f830da6427ab"
     },
     {
-      "path": "52b770ebdf12c2082b8904857b88e01b89e3ac77.css",
+      "path": "1367b3c4a1eb78e104f6b92e9e18cf701cb597b4.css",
       "where": "client",
       "type": "css",
       "cacheable": true,
-      "url": "/52b770ebdf12c2082b8904857b88e01b89e3ac77.css?meteor_css_resource=true",
-      "size": 292399,
-      "hash": "52b770ebdf12c2082b8904857b88e01b89e3ac77"
+      "url": "/1367b3c4a1eb78e104f6b92e9e18cf701cb597b4.css?meteor_css_resource=true",
+      "size": 292523,
+      "hash": "1367b3c4a1eb78e104f6b92e9e18cf701cb597b4"
+    },
+    {
+      "path": "app/favicon.ico",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon.ico",
+      "size": 15086,
+      "hash": "fa90e902d28cce259cb72c38709d8e4a59a61337"
+    },
+    {
+      "path": "app/favicon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon.png",
+      "size": 13067,
+      "hash": "3cc811d04832b1c9efec4b22762bfc044daadb02"
     },
     {
       "path": "app/run.svg",
