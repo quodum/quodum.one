@@ -2,13 +2,13 @@
   "format": "web-program-pre1",
   "manifest": [
     {
-      "path": "886beb0ff09219e7f22f735df328b16fcc4eb5bb.js",
+      "path": "0f1db2aecd942b7c6beafed244cdfecd530c6337.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/886beb0ff09219e7f22f735df328b16fcc4eb5bb.js?meteor_js_resource=true",
-      "size": 702406,
-      "hash": "886beb0ff09219e7f22f735df328b16fcc4eb5bb"
+      "url": "/0f1db2aecd942b7c6beafed244cdfecd530c6337.js?meteor_js_resource=true",
+      "size": 703762,
+      "hash": "0f1db2aecd942b7c6beafed244cdfecd530c6337"
     },
     {
       "path": "edaa823a6792c69aa21c1c865fc9f830da6427ab.css",
@@ -20,13 +20,13 @@
       "hash": "edaa823a6792c69aa21c1c865fc9f830da6427ab"
     },
     {
-      "path": "1367b3c4a1eb78e104f6b92e9e18cf701cb597b4.css",
+      "path": "82819bf3c27a3fc607cc2e3555cb00089daf693a.css",
       "where": "client",
       "type": "css",
       "cacheable": true,
-      "url": "/1367b3c4a1eb78e104f6b92e9e18cf701cb597b4.css?meteor_css_resource=true",
-      "size": 292523,
-      "hash": "1367b3c4a1eb78e104f6b92e9e18cf701cb597b4"
+      "url": "/82819bf3c27a3fc607cc2e3555cb00089daf693a.css?meteor_css_resource=true",
+      "size": 292876,
+      "hash": "82819bf3c27a3fc607cc2e3555cb00089daf693a"
     },
     {
       "path": "app/favicon.ico",
@@ -47,13 +47,22 @@
       "hash": "3cc811d04832b1c9efec4b22762bfc044daadb02"
     },
     {
+      "path": "app/run-hat.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/run-hat.svg",
+      "size": 57987,
+      "hash": "f573ee15d542a31f0ec0f4375687c710ca705e24"
+    },
+    {
       "path": "app/run.svg",
       "where": "client",
       "type": "asset",
       "cacheable": false,
       "url": "/run.svg",
-      "size": 57987,
-      "hash": "f573ee15d542a31f0ec0f4375687c710ca705e24"
+      "size": 49056,
+      "hash": "4737ffb1d8d753d19e9c38ce4a9f3f9752c14e27"
     },
     {
       "path": "app/images/meteor-logo.png",
@@ -819,6 +828,12 @@
       "url": "/lib/semantic-ui/src/themes/default/assets/images/flags.png",
       "size": 28123,
       "hash": "4a552ecb123ded5040ddda01d626103cc65db055"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "558e8ed73716556cf6c62e16e0cdeb2200fcecfd"
     }
   ]
 }
