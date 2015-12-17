@@ -7,23 +7,13 @@ var UI = Package.blaze.UI;
 var Handlebars = Package.blaze.Handlebars;
 var ReactiveDict = Package['reactive-dict'].ReactiveDict;
 var _ = Package.underscore._;
+var Tracker = Package.tracker.Tracker;
+var Deps = Package.tracker.Deps;
 var HTML = Package.htmljs.HTML;
 
 /* Package-scope variables */
 var BlazeLayout;
 
-(function(){
-
-///////////////////////////////////////////////////////////////////////
-//                                                                   //
-// packages/kadira_blaze-layout/packages/kadira_blaze-layout.js      //
-//                                                                   //
-///////////////////////////////////////////////////////////////////////
-                                                                     //
-                                                                     // 1
-///////////////////////////////////////////////////////////////////////
-
-}).call(this);
 
 
 /* Exports */

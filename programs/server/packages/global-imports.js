@@ -22,9 +22,10 @@ UI = Package.ui.UI;
 Handlebars = Package.ui.Handlebars;
 Spacebars = Package.spacebars.Spacebars;
 babelHelpers = Package['babel-runtime'].babelHelpers;
+Symbol = Package['ecmascript-runtime'].Symbol;
+Map = Package['ecmascript-runtime'].Map;
+Set = Package['ecmascript-runtime'].Set;
 Promise = Package.promise.Promise;
-Map = Package['ecmascript-collections'].Map;
-Set = Package['ecmascript-collections'].Set;
 Autoupdate = Package.autoupdate.Autoupdate;
 HTML = Package.htmljs.HTML;
 

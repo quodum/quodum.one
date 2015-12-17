@@ -2,13 +2,13 @@
   "format": "web-program-pre1",
   "manifest": [
     {
-      "path": "554a77fd996f7fe371bea016e9343041c435eefc.js",
+      "path": "ace176b6b15011eb98a163b180ea104149632051.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/554a77fd996f7fe371bea016e9343041c435eefc.js?meteor_js_resource=true",
-      "size": 703867,
-      "hash": "554a77fd996f7fe371bea016e9343041c435eefc"
+      "url": "/ace176b6b15011eb98a163b180ea104149632051.js?meteor_js_resource=true",
+      "size": 719250,
+      "hash": "ace176b6b15011eb98a163b180ea104149632051"
     },
     {
       "path": "edaa823a6792c69aa21c1c865fc9f830da6427ab.css",
@@ -29,22 +29,13 @@
       "hash": "82819bf3c27a3fc607cc2e3555cb00089daf693a"
     },
     {
-      "path": "app/bg.svg",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/bg.svg",
-      "size": 1092,
-      "hash": "6136f156bdaf592498eb4893a15d885fdd5c61a6"
-    },
-    {
       "path": "app/favicon.ico",
       "where": "client",
       "type": "asset",
       "cacheable": false,
       "url": "/favicon.ico",
-      "size": 4286,
-      "hash": "9388c550f9ade54b489da81b57060b33a9a4a032"
+      "size": 15086,
+      "hash": "fa90e902d28cce259cb72c38709d8e4a59a61337"
     },
     {
       "path": "app/favicon.png",
@@ -72,6 +63,42 @@
       "url": "/run.svg",
       "size": 49056,
       "hash": "4737ffb1d8d753d19e9c38ce4a9f3f9752c14e27"
+    },
+    {
+      "path": "app/images/FinalTransaction.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/FinalTransaction.png",
+      "size": 52380,
+      "hash": "b193ac43ddc6c56fba603384bb0024502871d5c4"
+    },
+    {
+      "path": "app/images/GeneralAlgorithm.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/GeneralAlgorithm.png",
+      "size": 60084,
+      "hash": "71163286658866841577ddc1ecb0000d49634512"
+    },
+    {
+      "path": "app/images/PrototypeDev.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/PrototypeDev.png",
+      "size": 54357,
+      "hash": "64d56c94ab94adceef1d06e035a0aee4fbbed24d"
+    },
+    {
+      "path": "app/images/SpecificationsDev.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/SpecificationsDev.png",
+      "size": 55289,
+      "hash": "bf1b985a55693f86a5cf6153e214cf2b396e285e"
     },
     {
       "path": "app/images/meteor-logo.png",
@@ -785,6 +812,15 @@
       "hash": "57fe44478f6de3dd91bde7992b4baf1b9314cc19"
     },
     {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/images/flags.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/images/flags.png",
+      "size": 28123,
+      "hash": "4a552ecb123ded5040ddda01d626103cc65db055"
+    },
+    {
       "path": "app/lib/semantic-ui/src/themes/default/assets/fonts/icons.eot",
       "where": "client",
       "type": "asset",
@@ -828,15 +864,6 @@
       "url": "/lib/semantic-ui/src/themes/default/assets/fonts/icons.woff2",
       "size": 56780,
       "hash": "1075231650f579955905bb2f6527148a8e2b4b16"
-    },
-    {
-      "path": "app/lib/semantic-ui/src/themes/default/assets/images/flags.png",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/lib/semantic-ui/src/themes/default/assets/images/flags.png",
-      "size": 28123,
-      "hash": "4a552ecb123ded5040ddda01d626103cc65db055"
     },
     {
       "path": "head.html",

@@ -187,7 +187,7 @@ Router.prototype.wait = function() {                                            
 Group = function(router, options) {                                                 // 1
   options = options || {};                                                          // 2
   this.prefix = options.prefix || '';                                               // 3
-                                                                                    // 4
+  this.options = options;                                                           // 4
   this._router = router;                                                            // 5
 };                                                                                  // 6
                                                                                     // 7
@@ -329,6 +329,28 @@ function setupFastRender () {                                                   
   });                                                                               // 39
 }                                                                                   // 40
                                                                                     // 41
+//////////////////////////////////////////////////////////////////////////////////////
+
+}).call(this);
+
+
+
+
+
+
+(function(){
+
+//////////////////////////////////////////////////////////////////////////////////////
+//                                                                                  //
+// packages/kadira_flow-router/lib/router.js                                        //
+//                                                                                  //
+//////////////////////////////////////////////////////////////////////////////////////
+                                                                                    //
+Router.prototype.url = function() {                                                 // 1
+  var path = this.path.apply(this, arguments);                                      // 2
+  return Meteor.absoluteUrl(path.replace(/^\//, ''));                               // 3
+};                                                                                  // 4
+                                                                                    // 5
 //////////////////////////////////////////////////////////////////////////////////////
 
 }).call(this);

@@ -30,16 +30,43 @@
       "path": "packages/npm-mongo.js"
     },
     {
-      "sourceMap": "packages/random.js.map",
-      "path": "packages/random.js"
-    },
-    {
       "sourceMap": "packages/base64.js.map",
       "path": "packages/base64.js"
     },
     {
       "sourceMap": "packages/ejson.js.map",
       "path": "packages/ejson.js"
+    },
+    {
+      "sourceMap": "packages/check.js.map",
+      "path": "packages/check.js"
+    },
+    {
+      "node_modules": "npm/babel-compiler/node_modules",
+      "sourceMap": "packages/babel-compiler.js.map",
+      "path": "packages/babel-compiler.js"
+    },
+    {
+      "sourceMap": "packages/ecmascript.js.map",
+      "path": "packages/ecmascript.js"
+    },
+    {
+      "sourceMap": "packages/babel-runtime.js.map",
+      "path": "packages/babel-runtime.js"
+    },
+    {
+      "node_modules": "npm/ecmascript-runtime/node_modules",
+      "sourceMap": "packages/ecmascript-runtime.js.map",
+      "path": "packages/ecmascript-runtime.js"
+    },
+    {
+      "node_modules": "npm/promise/node_modules",
+      "sourceMap": "packages/promise.js.map",
+      "path": "packages/promise.js"
+    },
+    {
+      "sourceMap": "packages/random.js.map",
+      "path": "packages/random.js"
     },
     {
       "sourceMap": "packages/id-map.js.map",
@@ -70,10 +97,6 @@
       "path": "packages/minimongo.js"
     },
     {
-      "sourceMap": "packages/check.js.map",
-      "path": "packages/check.js"
-    },
-    {
       "sourceMap": "packages/retry.js.map",
       "path": "packages/retry.js"
     },
@@ -85,15 +108,6 @@
       "node_modules": "npm/ddp-client/node_modules",
       "sourceMap": "packages/ddp-client.js.map",
       "path": "packages/ddp-client.js"
-    },
-    {
-      "node_modules": "npm/babel-compiler/node_modules",
-      "sourceMap": "packages/babel-compiler.js.map",
-      "path": "packages/babel-compiler.js"
-    },
-    {
-      "sourceMap": "packages/ecmascript.js.map",
-      "path": "packages/ecmascript.js"
     },
     {
       "node_modules": "npm/logging/node_modules",
@@ -168,20 +182,6 @@
     {
       "sourceMap": "packages/callback-hook.js.map",
       "path": "packages/callback-hook.js"
-    },
-    {
-      "sourceMap": "packages/babel-runtime.js.map",
-      "path": "packages/babel-runtime.js"
-    },
-    {
-      "node_modules": "npm/promise/node_modules",
-      "sourceMap": "packages/promise.js.map",
-      "path": "packages/promise.js"
-    },
-    {
-      "node_modules": "npm/ecmascript-collections/node_modules",
-      "sourceMap": "packages/ecmascript-collections.js.map",
-      "path": "packages/ecmascript-collections.js"
     },
     {
       "node_modules": "npm/ddp-server/node_modules",
