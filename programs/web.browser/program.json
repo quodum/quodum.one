@@ -2,13 +2,13 @@
   "format": "web-program-pre1",
   "manifest": [
     {
-      "path": "ace176b6b15011eb98a163b180ea104149632051.js",
+      "path": "2dd9565f34a7d5696e583cb2cdbc44d2fdc49830.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/ace176b6b15011eb98a163b180ea104149632051.js?meteor_js_resource=true",
-      "size": 719250,
-      "hash": "ace176b6b15011eb98a163b180ea104149632051"
+      "url": "/2dd9565f34a7d5696e583cb2cdbc44d2fdc49830.js?meteor_js_resource=true",
+      "size": 719357,
+      "hash": "2dd9565f34a7d5696e583cb2cdbc44d2fdc49830"
     },
     {
       "path": "edaa823a6792c69aa21c1c865fc9f830da6427ab.css",
@@ -27,6 +27,15 @@
       "url": "/82819bf3c27a3fc607cc2e3555cb00089daf693a.css?meteor_css_resource=true",
       "size": 292876,
       "hash": "82819bf3c27a3fc607cc2e3555cb00089daf693a"
+    },
+    {
+      "path": "app/bg.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bg.svg",
+      "size": 1092,
+      "hash": "6136f156bdaf592498eb4893a15d885fdd5c61a6"
     },
     {
       "path": "app/favicon.ico",
