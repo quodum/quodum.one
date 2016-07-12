@@ -2,13 +2,13 @@
   "format": "web-program-pre1",
   "manifest": [
     {
-      "path": "6134815212a64a61c45526dbf53514b2e4904f86.js",
+      "path": "f17f7f2306cfe5cb06d5227bae00363c1b103d6d.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/6134815212a64a61c45526dbf53514b2e4904f86.js?meteor_js_resource=true",
-      "size": 720956,
-      "hash": "6134815212a64a61c45526dbf53514b2e4904f86"
+      "url": "/f17f7f2306cfe5cb06d5227bae00363c1b103d6d.js?meteor_js_resource=true",
+      "size": 720395,
+      "hash": "f17f7f2306cfe5cb06d5227bae00363c1b103d6d"
     },
     {
       "path": "edaa823a6792c69aa21c1c865fc9f830da6427ab.css",
@@ -88,8 +88,8 @@
       "type": "asset",
       "cacheable": false,
       "url": "/images/GeneralAlgorithm.png",
-      "size": 60084,
-      "hash": "71163286658866841577ddc1ecb0000d49634512"
+      "size": 40240,
+      "hash": "e319036e85ccbaf279e70bc8c8a8bb992d229af1"
     },
     {
       "path": "app/images/PrototypeDev.png",
@@ -108,6 +108,15 @@
       "url": "/images/SpecificationsDev.png",
       "size": 55289,
       "hash": "bf1b985a55693f86a5cf6153e214cf2b396e285e"
+    },
+    {
+      "path": "app/images/SubprojectContract.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/SubprojectContract.png",
+      "size": 64888,
+      "hash": "9d78cbcec9485bd114bd48717cf6ca89f3b2500d"
     },
     {
       "path": "app/images/meteor-logo.png",
@@ -153,6 +162,204 @@
       "url": "/owl.carousel/index4.html",
       "size": 36553,
       "hash": "c07292eb1d960394bb0c073104693b8509f160b8"
+    },
+    {
+      "path": "app/images/svg/2fAfrtoN4mn2hMbLj.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/2fAfrtoN4mn2hMbLj.svg",
+      "size": 5936,
+      "hash": "0988617f74a659aa4e74428e26161e5d487007a0"
+    },
+    {
+      "path": "app/images/svg/8F8xZdTH3cR3sCkC7.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/8F8xZdTH3cR3sCkC7.svg",
+      "size": 32133,
+      "hash": "ce3cf409e3ac3547c524a9d4776a87b6959b9526"
+    },
+    {
+      "path": "app/images/svg/8F8xZdTH3cR3sCkC7_005.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/8F8xZdTH3cR3sCkC7_005.svg",
+      "size": 32137,
+      "hash": "ba73c2812fc6a55c6accd897724cd20e3474dc98"
+    },
+    {
+      "path": "app/images/svg/AJZ9iacT2oipw9poF.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/AJZ9iacT2oipw9poF.svg",
+      "size": 49098,
+      "hash": "e8f5751244aec863d5ce7020ed3a362d47e8c539"
+    },
+    {
+      "path": "app/images/svg/D8igRFEaJ3DCr5peD.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/D8igRFEaJ3DCr5peD.svg",
+      "size": 9639,
+      "hash": "ddb0f0f376bf7466dcccba9d584708b037fc52d6"
+    },
+    {
+      "path": "app/images/svg/DSTH6LATvdPaBTBHD.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/DSTH6LATvdPaBTBHD.svg",
+      "size": 12318,
+      "hash": "6f004f411eb2fe1505f07fc531d56df417367c91"
+    },
+    {
+      "path": "app/images/svg/DSTH6LATvdPaBTBHD_005.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/DSTH6LATvdPaBTBHD_005.svg",
+      "size": 12322,
+      "hash": "c52d493df97bae91545d3e96d69c2d44a1dee0d3"
+    },
+    {
+      "path": "app/images/svg/Gi4Hk42DwQ7hEkWJW.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/Gi4Hk42DwQ7hEkWJW.svg",
+      "size": 39615,
+      "hash": "7df13eb3f63da183e88cc90d3aa601f63ab0386f"
+    },
+    {
+      "path": "app/images/svg/Gi4Hk42DwQ7hEkWJW_005.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/Gi4Hk42DwQ7hEkWJW_005.svg",
+      "size": 39619,
+      "hash": "d5a26f993e810120fb9b7ab080f1eeec8303f82e"
+    },
+    {
+      "path": "app/images/svg/HFsgKaiXyYk68YfX7.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/HFsgKaiXyYk68YfX7.svg",
+      "size": 10000,
+      "hash": "e126af883a040e968f1bb4eca954a38d37e7c215"
+    },
+    {
+      "path": "app/images/svg/TXx6LvjycGttc6Pba.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/TXx6LvjycGttc6Pba.svg",
+      "size": 11594,
+      "hash": "4568b670e2d75249db796ab1cee1c7a94bca2189"
+    },
+    {
+      "path": "app/images/svg/Zs6r8kFHXtsFu89JB.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/Zs6r8kFHXtsFu89JB.svg",
+      "size": 22318,
+      "hash": "2f093861583da27c54ef0c9285a9bc750e5a0837"
+    },
+    {
+      "path": "app/images/svg/Zs6r8kFHXtsFu89JB_005.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/Zs6r8kFHXtsFu89JB_005.svg",
+      "size": 22322,
+      "hash": "23c72b4c9e592800722f708fad834822697789c8"
+    },
+    {
+      "path": "app/images/svg/oqHzDWD8ghTvurt2i.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/oqHzDWD8ghTvurt2i.svg",
+      "size": 18167,
+      "hash": "598f77e6302ff4399dac4a89f5262184280e4849"
+    },
+    {
+      "path": "app/images/svg/oqHzDWD8ghTvurt2i_005.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/oqHzDWD8ghTvurt2i_005.svg",
+      "size": 18171,
+      "hash": "575c946da74662ea46e76e9331aa4ce05ad2c01c"
+    },
+    {
+      "path": "app/images/svg/s6tozJhaEWjyQPRck.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/s6tozJhaEWjyQPRck.svg",
+      "size": 52905,
+      "hash": "fe220b5f6e242b1f1c7806d8b5e1f6fa07e57534"
+    },
+    {
+      "path": "app/images/svg/uKrNHyXAogKvr3ruK.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/uKrNHyXAogKvr3ruK.svg",
+      "size": 61741,
+      "hash": "cbff8a0b07204f59f3d892b836a44a7004c44f85"
+    },
+    {
+      "path": "app/images/svg/uKrNHyXAogKvr3ruK_005.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/uKrNHyXAogKvr3ruK_005.svg",
+      "size": 61745,
+      "hash": "cb3783ba045541947cc46c90154469037bda1615"
+    },
+    {
+      "path": "app/images/svg/uNavXWyQpL27iqmxs.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/uNavXWyQpL27iqmxs.svg",
+      "size": 17855,
+      "hash": "49d5019ff7dd2148538055424415faf4ccb8c5d8"
+    },
+    {
+      "path": "app/images/svg/uNavXWyQpL27iqmxs_005.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/uNavXWyQpL27iqmxs_005.svg",
+      "size": 17859,
+      "hash": "d450054a82ad4a94fcdb27eab2357b48ac12c94c"
+    },
+    {
+      "path": "app/images/svg/vEEpL9nGcRkxE9qNt.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/vEEpL9nGcRkxE9qNt.svg",
+      "size": 5221,
+      "hash": "25a0fff26870dd66474bee693ef202dd6357a293"
+    },
+    {
+      "path": "app/images/svg/xxK9nGEDYPswcS97y.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/xxK9nGEDYPswcS97y.svg",
+      "size": 4612,
+      "hash": "b7a720cd891c603b672956be9c5dc182a75972e8"
     },
     {
       "path": "app/owl.carousel/demos/autoHeight.html",
