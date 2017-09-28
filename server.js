@@ -22,10 +22,12 @@ var SampleApp = function() {
      */
     self.setupVariables = function() {
         //  Set the environment variables we need.
-        self.ipaddress = process.env.OPENSHIFT_NODEJS_IP ||
-                         process.env.OPENSHIFT_INTERNAL_IP;
-        self.port      = process.env.OPENSHIFT_NODEJS_PORT   ||
-                         process.env.OPENSHIFT_INTERNAL_PORT || 8080;
+        //self.ipaddress = process.env.OPENSHIFT_NODEJS_IP ||
+                         //process.env.OPENSHIFT_INTERNAL_IP;
+        self.ipaddress = '0.0.0.0';
+        self.port = 8080;
+        //self.port      = process.env.OPENSHIFT_NODEJS_PORT   ||
+        //                 process.env.OPENSHIFT_INTERNAL_PORT || 8080;
 
         if (typeof self.ipaddress === "undefined") {
             //  Log errors on OpenShift but continue w/ 127.0.0.1 - this
@@ -176,4 +178,3 @@ var SampleApp = function() {
 var zapp = new SampleApp();
 zapp.initialize();
 zapp.start();
-
